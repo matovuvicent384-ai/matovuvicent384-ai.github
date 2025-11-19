@@ -1,0 +1,1 @@
+/mnt/sdcard/mtklog/gpsdbglog/
